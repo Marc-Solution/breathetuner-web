@@ -1,2 +1,3 @@
-# breathetuner-web
-Support center and Privacy Policy for the Breathe Tuner iOS app. Includes contact information and data handling disclosures.
+# Breathe Tuner Support & Privacy
+This repository hosts the support page and privacy policy for the Breathe Tuner iOS app.
+The live site can be found at: https://marc-solution.github.io/breathetuner-web
